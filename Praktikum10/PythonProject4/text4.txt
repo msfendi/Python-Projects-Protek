@@ -1,0 +1,6 @@
+K3520043|Fendi|Solo
+K3518001|Amir|solo
+K3518002|Budi|Semarang
+K3518003|Cici|Jakarta
+K3518004|Yuli|Bogor
+K3518005|eko|depok
